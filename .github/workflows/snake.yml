@@ -1,0 +1,25 @@
+name: 🐍🐍🐍
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: 🐍🐍🐍
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+          # The output files
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/pink.gif?color_snake=#ff69b4&color_dots=#f0d3e5,#e1bceb,#d2a5f1,#c38cf7,#b474fd
