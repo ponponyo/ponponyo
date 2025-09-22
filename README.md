@@ -6,4 +6,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/j-iann/j-iann/output/github-snake.svg" />
 </picture>
 
-![](https://raw.githubusercontent.com/j-iann/j-iann/output/pink.gif)
+<div align="center">
+  <img alt="pink-gif" src="https://raw.githubusercontent.com/j-iann/j-iann/output/pink.gif" />
+</div>
