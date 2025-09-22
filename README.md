@@ -6,4 +6,4 @@
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 
-![](https://github.com/j-iann/j-iann/blob/output/dist/pink.gif)
+![](https://raw.githubusercontent.com/j-iann/j-iann/output/dist/pink.gif)
