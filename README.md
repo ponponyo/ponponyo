@@ -8,4 +8,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/j-iann/j-iann/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="https://64.media.tumblr.com/a998cb43d27cefbdfe9be92ac5b40ee2/784c52ce78b8b1b2-bc/s1280x1920/1f9f6587e9fbd126a499452d627469faf61e9785.gif" alt="">
+![N](https://64.media.tumblr.com/a998cb43d27cefbdfe9be92ac5b40ee2/784c52ce78b8b1b2-bc/s1280x1920/1f9f6587e9fbd126a499452d627469faf61e9785.gif)
